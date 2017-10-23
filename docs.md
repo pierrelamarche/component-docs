@@ -1,4 +1,9 @@
-#### Class Selector
+1. [Class Selector](#class-selector)
+2. [Bracket Input](#bracket-input)
+3. [Secrets Radio Buttons](#secrets-radio-buttons)
+4. [Quest Toggle](#quest-toggle)
+
+### Class Selector
 ---
 **Type:_** Dashboard Element
 
@@ -20,9 +25,7 @@ class-selector(name="4", ban)
 ![view](https://i.imgur.com/sTtvKYx.png)
 ![view](https://i.imgur.com/CHu7ugC.png)
 
-
-
-#### Bracket Input
+### Bracket Input
 ---
 **Type:_** Dashboard Element
 
@@ -39,9 +42,7 @@ bracket-inputs(matches="2")
 
 ![view](https://i.imgur.com/jHD9nsb.png)
 
-
-
-#### Secrets Radio Buttons
+### Secrets Radio Buttons
 ---
 **Type:_** Dashboard Element
 
@@ -55,9 +56,7 @@ secrets-radio
 
 ![view](https://i.imgur.com/J4ClXze.png)
 
-
-
-#### Quest Toggle
+### Quest Toggle
 ---
 **Type:_** Dashboard Element
 
